@@ -1,6 +1,6 @@
 # prefix.cc client
 
-[![Build Status](https://travis-ci.org/eddieantonio/prefix.cc-client.svg?branch=master)](https://travis-ci.org/eddieantonio/prefix-cc)
+[![Build Status](https://travis-ci.org/eddieantonio/prefix.cc-client.svg?branch=master)](https://travis-ci.org/eddieantonio/prefix.cc-client)
 [![npm Version](https://img.shields.io/npm/v/prefix-cc.svg)](https://www.npmjs.com/package/prefix-cc)
 
 JavaScript and command line client to <http://prefix.cc>.
