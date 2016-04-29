@@ -22,6 +22,9 @@
     "url": "https://github.com/eddieantonio/prefix.cc-client/issues"
   },
   "homepage": "https://github.com/eddieantonio/prefix.cc-client#readme",
+  "engines": {
+    "node" : ">=4.0.0"
+  },
   "devDependencies": {
     "chai": "^3.5.0",
     "chai-as-promised": "^5.3.0",
