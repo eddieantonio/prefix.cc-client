@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "JavaScript and command-line client for http://prefix.cc/",
   "main": "index.js",
+  "bin": "./bin/prefix-cc.js",
   "scripts": {
     "test": "mocha"
   },
